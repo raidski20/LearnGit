@@ -67,3 +67,5 @@ To delete a specific branch locally on your machine
 
 # 17: git push origin -d new-branch
 To delete a specific remote branch
+
+# 18: undoing stuff
